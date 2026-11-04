@@ -1,0 +1,847 @@
+id,version,pregunta,respuesta,contexto,fidelidad_humano,relevancia_respuesta_humano,relevancia_contexto_humano
+q01,V0,¿Qué línea se centra en la promoción del equilibrio de género en el acceso de la mujer a titulaciones STEAM?,La Línea 3 se centra en la promoción del equilibrio de género en el acceso de la mujer a perfiles y titulaciones de formación profesional STEAM [p. 2].,"[Fragmento 1 | páginas 2]
+o 5G, y aboga por el desarrollo sostenible a través de la reutilización eficiente de recursos. De esta manera, se alinea con la educación en áreas clave de la digitalización actual. Línea 3: Promoción del equilibrio de género en el acceso de la mujer a los perfiles de formación profesional relacionados directa o indirectamente con las titulaciones de formación profesional STEAM y a su inserción profesional. El proyecto surge como un mecanismo clave para realzar el equilibrio de género en el mundo STEAM. Al desarrollar un entorno formativo centrado en los procesos de CI/CD para IA, se construye una plataforma en la que todas las personas, independientemente de su género, pueden interactuar y crecer. La naturaleza intrínsecamente generalista de la IA ofrece una gran flexibilidad, permitiendo
+
+[Fragmento 2 | páginas 8]
+lar en el desarrollo eficiente de aplicaciones de Inteligencia Artificial, enfocándose en la optimización de recursos y la reducción de desperdicios.
+- b. Tarea 8: Guiar a los estudiantes en la implementación de prácticas de economía circular en el demostrador, evaluando y analizando los resultados para fomentar la conciencia ambiental y la responsabilidad en el uso de recursos tecnológicos.
+
+## Línea 3 - Promoción del equilibrio de género en la formación STEAM:
+
+1. Implementar estrategias inclusivas que fomenten la participación activa de mujeres en el estudio y experimentación de CI/CD para aplicaciones de Inteligencia Artificial, creando un entorno formativo que promueva la igualdad de género en disciplinas técnicas.
+- a. Tarea 9: Identificar y seleccionar mentoras con experiencia en di
+
+[Fragmento 3 | páginas 2]
+crecer. La naturaleza intrínsecamente generalista de la IA ofrece una gran flexibilidad, permitiendo adaptarla a aplicaciones que pueden resultar particularmente atractivas para las mujeres. Esta adaptabilidad no solo introduce tecnologías innovadoras, sino que también amplía horizontes, facilitando que más mujeres se sientan identificadas y motivadas para integrarse y liderar en sectores STEAM. Línea 4: Creación de estructuras para la promoción de la competencia emprendedora, vinculada a centros de formación profesional (viveros, incubadoras de empresas, etc.), que estimulen la competencia emprendedora, y que faciliten la transición al mercado laboral desde el entorno formativo, aportando el marco, las normas, el soporte y el acompañamiento necesarios. La tecnología puntera e innovadora u
+
+[Fragmento 4 | páginas 14]
+| LÍNEA 3 : Promoción e incentivo del equilibrio de género - POTENCIALES BENEFICIARIOS - ALUMNADO                                                                                     | LÍNEA 3 : Promoción e incentivo del equilibrio de género - POTENCIALES BENEFICIARIOS - PROFESORADO                                                    | LÍNEA 3 : Promoción e incentivo del equilibrio de género - POTENCIALES BENEFICIARIOS - EMPRESAS                                         | LÍNEA 3 : Promoción e incentivo del equilibrio de género - POTENCIALES BENEFICIARIOS - CENTRO FP                                     |
+|----------------------------------------------------------------------------------------------------------------------------------------
+
+[Fragmento 5 | páginas 14]
+responsable de energía. | 125 alumn./curso                                                                                                              | 5 prof./curso                                                                                                                 | 25 empr./ curso                                                                                     | 2 centros FP                                                                                                           |
+
+| LÍNEA 3 : Promoción e incentivo del equilibrio de género - RESULTADO ESPERADO                                                                                                                                                                        | LÍNEA 3 : Promoción e incentivo del equilibr",,,
+q02,V3,Cuál es la duración total del proyecto según el apartado 1.6?,La duración total del proyecto es de 2 años (24 meses) [p. 3].,"[Fragmento 1 | páginas 19]
+## 8.1 Presupuesto General
+
+| TRABAJOS A DESARROLLAR   | IES Fernando Writz   | CF Somorrostro   | Empresa   | TOTAL PROYECTO   |
+|--------------------------|----------------------|------------------|-----------|------------------|
+| 1.- Gestión del proyecto | 2,590 €              | 2,590 €          | 0 €       | 5,180 €          |
+
+[Fragmento 2 | páginas 3]
+## 1.6 DURACIÓN
+
+2 Años (24 meses)
+
+## BREVE RESUMEN DEL PROYECTO
+
+El objetivo principal del proyecto es diseñar y construir un demostrador que muestre de manera práctica y didáctica cómo se despliegan aplicaciones de inteligencia artificial generalistas, en entornos cloud modernos. Esta iniciativa no solo identificará y describirá las tecnologías clave que se necesitan, sino que también ofrecerá una guía detallada sobre cómo orquestar y combinar estas herramientas para lograr un despliegue efectivo. Más allá de la mera implementación, el demostrador también se centrará en los desafíos operativos asociados con la gestión de aplicaciones en la nube. Se abordarán aspectos críticos como cómo gestionar y adaptarse a las fluctuaciones en la demanda de los usuarios, garantizando al mismo tiempo que el sistema mantenga una alta disponibilidad. Se explorarán conceptos avanzados como la tolerancia a fallos, esencial para asegurar que los servicios continúen funcionando ante adversidades, y el ""zero downtime"", que se refiere a la capacidad del sistema para operar de manera ininterrumpida, incluso durante actualizaciones o mantenimientos. En conjunto, el proyecto ofrecerá una visión integral de la implementación y gestión de aplicaciones de inteligencia artificial en la nube pasando por todas sus fases.
+
+[Fragmento 3 | páginas 12, 13]
+## TAREAS A REALIZAR PREVIAS A COMENZAR LA EJECUCIÓN DEL PROYECTO
+
+Asimismo, las actividades asociadas tendrán la temporalidad que se muestra en la tabla a continuación a lo largo de los 24 meses de duración del proyecto, las columnas representan el mes en el que se ejecuta dicha tarea:
+
+<!-- image -->
+
+[Fragmento 4 | páginas 11]
+## 4.1 FASES DEL PROYECTO
+
+El proyecto estará dividido en 5 fases principales que se detallan a continuación:
+
+[Fragmento 5 | páginas 19, 20]
+## 8.1 Presupuesto General
+
+| 1.1.1.- Primera reunión de coordinación en Muskiz (Bizkaia)   | 1,310 €   | 80 €     | 0 €   | 1,390 €   |
+|---------------------------------------------------------------|-----------|----------|-------|-----------|
+| Alojamiento 2 días.                                           | 350 €     |          |       | 350 €     |
+| Manutención 3 días.                                           | 360 €     | 80 €     |       | 440 €     |
+| Desplazamiento                                                | 600 €     |          |       | 600 €     |
+| 1.1.2.- Segunda reunión de coordinación en A Coruña           | 80 €      | 1,310 €  |       | 1,390 €   |
+| Alojamiento 1 día                                             |           | 360 €    |       | 360 €     |
+| manutención 2 días                                            | 80 €      | 350 €    |       | 430 €     |
+| Desplazamiento                                                |           | 600 €    |       | 600 €     |
+| 1.2.1.- Gastos de Auditoría (aprox. 0.5% subvención)          | 1,200 €   | 1,200 €  |       | 2,400 €   |
+| 2.- Alquiler de equipos y formación específica técnica        | 38,000 €  | 38,000 € | 0 €   | 76,000 €  |
+| Alquiler de equipo                                            | 26100     | 25800    |       | 51,900 €  |
+| Formación específica técnica                                  | 13200     | 13200    |       | 26,400 €  |
+|                                                               |           |          |       | 39,000 €  |
+| 3.- Gastos de Personal                                        | 0 €       | 6,000 €  | 20000 | 26,000 €  |
+| Horas de trabajo                                              |           | 7000     |       | 7,000 €   |
+| 4.- Difusión del proyecto                                     | 2,000 €   | 2,000 €  | 0 €   | 4,000 €   |
+| Difusión en centros de formación, empresas y asociaciones.    | 2,000 €   | 2,000 €  | 0 €   | 4,000 €   |
+| 5.- Gastos de imprevistos                                     | 2,000 €   | 1,000 €  |       | 3,000 €   |
+| Total por centro                                              | 44,590 €  | 49,590 € | 20000 | 114,180 € |",,,
+q03,V0,¿Cuál es el nombre del profesor del Centro de Formación Somorrostro mencionado en el documento?,No aparece en el documento.,"[Fragmento 1 | páginas 6]
+ltura, Educación y Universidad: http://www.edu.xunta.gal/fp/sites/fp/files/pi2022\_\_resolucion\_de\_convocatoria.pdf
+
+## Centro de Formación Somorrostro
+
+El Centro de Formación Somorrostro, con más de 75 años de experiencia, es un destacado instituto de Formación Profesional en Bizkaia, ofreciendo desde Educación Secundaria hasta Formación para el Empleo, siendo el mayor centro de FP de Bizkaia y el segundo en el País Vasco. Imparte una variedad de programas, incluyendo especialidades en Inteligencia Artificial y Big Data, y ciclos formativos superiores en Desarrollo de Aplicaciones Multiplataforma y Administración de Sistemas Informáticos en Red. Actualmente, educa a cerca de 4,000 personas y mantiene acuerdos con más de 600 empresas para la acogida de estudiantes y formación de personal
+
+[Fragmento 2 | páginas 6]
+Profesor de ciclo formativo de grado medio en instalaciones de telecomunicación, de ciclo formativo de grado superior en sistemas de telecomunicación e informáticos y en el postciclo de Inteligencia Artificial y Big Data. Responsable actual la especialización en TKNIKA en el área de inteligencia artificial en el Centro de Formación Somorrostro.
+- o 7 Años de experiencia en el sector de las telecomunicaciones, ciberseguridad y monitorización de datos en empresa.
+-  Experiencia en proyectos similares: Participación en el proyecto de innovación e investigación, DUALIZA y FPempresa de MLAB5G con liberación horaria para el despliegue de un laboratorio móvil de comunicaciones 5G.
+- o Formación en ETHAZI por TKNIKA para la metodología de Aprendizaje basada en Retos.
+-  Aportación al proyecto:
+
+[Fragmento 3 | páginas 20]
+|                    |                   |                   |                   |                    |
+| FORMACION TÉCNICA                      |                   |                   |                   |                    |                   |                   |                   |                    |
+| DESARROLLO COMPONENTES                 |                   |                   |                   |                    |                   |                   |                   |                    |
+| VISITA DE TRABAJO A CIFP SOMORROSTRO   |                   |                   |                   |                    |                   |                   |                   |                    |
+| VISITA DE TRABAJO A IES Fernando Writz |                   |
+
+[Fragmento 4 | páginas 19, 20]
+aboraciones y alianzas forjadas con entidades y organizaciones relevantes del sector.
+4. Medición del impacto y aplicabilidad de los conocimientos transmitidos en los talleres y seminarios.
+5. Diversidad e inclusividad en la participación y representación en todas las actividades y aspectos del proyecto.
+
+## 8. PRESUPUESTO
+
+## 8.1 Presupuesto General
+
+| TRABAJOS A DESARROLLAR   | IES Fernando Writz   | CF Somorrostro   | Empresa   | TOTAL PROYECTO   |
+|--------------------------|----------------------|------------------|-----------|------------------|
+| 1.- Gestión del proyecto | 2,590 €              | 2,590 €          | 0 €       | 5,180 €          |
+
+| 1.1.1.- Primera reunión de coordinación en Muskiz (Bizkaia)   | 1,310 €   | 80 €     | 0 €   | 1,390 €   |
+|-----------------------------
+
+[Fragmento 5 | páginas 15]
+| 125 alumn./curso                                                                                                                                                  | 5 prof./curso                                                                                                                                    | 10 empresas                                                                                                                                 | 2 centros FP",,,
+q04,V3,¿Cuántas fases principales componen el desarrollo del proyecto?,El proyecto está dividido en 5 fases principales [p. 11].,"[Fragmento 1 | páginas 11]
+## 4.1 FASES DEL PROYECTO
+
+El proyecto estará dividido en 5 fases principales que se detallan a continuación:
+
+[Fragmento 2 | páginas 3]
+## 1.6 DURACIÓN
+
+2 Años (24 meses)
+
+## BREVE RESUMEN DEL PROYECTO
+
+El objetivo principal del proyecto es diseñar y construir un demostrador que muestre de manera práctica y didáctica cómo se despliegan aplicaciones de inteligencia artificial generalistas, en entornos cloud modernos. Esta iniciativa no solo identificará y describirá las tecnologías clave que se necesitan, sino que también ofrecerá una guía detallada sobre cómo orquestar y combinar estas herramientas para lograr un despliegue efectivo. Más allá de la mera implementación, el demostrador también se centrará en los desafíos operativos asociados con la gestión de aplicaciones en la nube. Se abordarán aspectos críticos como cómo gestionar y adaptarse a las fluctuaciones en la demanda de los usuarios, garantizando al mismo tiempo que el sistema mantenga una alta disponibilidad. Se explorarán conceptos avanzados como la tolerancia a fallos, esencial para asegurar que los servicios continúen funcionando ante adversidades, y el ""zero downtime"", que se refiere a la capacidad del sistema para operar de manera ininterrumpida, incluso durante actualizaciones o mantenimientos. En conjunto, el proyecto ofrecerá una visión integral de la implementación y gestión de aplicaciones de inteligencia artificial en la nube pasando por todas sus fases.
+
+[Fragmento 3 | páginas 4, 5]
+## 2.1 INTERÉS DEL PROYECTO PRESENTADO
+
+Un pequeño esbozo sería el que se muestra a continuación:
+
+1. Conceptualización: Identificación de necesidades y definición de la solución de software, desde la fase de entrenamiento, despliegue, monitorización y mantenimiento.
+2. Diseño: Esbozo de la arquitectura, interfaces y flujos de trabajo del software y selección del hardware necesario.
+3. Desarrollo: Creación del código y de las pipelines encargadas de materializar el entorno de CI/CD.
+4. Pruebas: Verificación de la funcionalidad y desempeño del software en entornos controlados, identificando y corrigiendo errores.
+
+5. Integración: Incorporación de la solución en sistemas existentes o nuevos, garantizando su interacción adecuada con otros componentes.
+6. Despliegue: Lanzamiento de la solución en un entorno de producción, listo para ser utilizado por los usuarios finales.
+7. Monitoreo y Mantenimiento: Supervisión del software en acción, realizando ajustes cuando sea necesario y asegurando su operatividad constante.
+
+Es esencial que los alumnos comprendan cada una de estas fases, no solo desde una perspectiva teórica, sino también práctica. Cada fase del proyecto representa un área distinta de conocimiento y especialidad dentro del amplio dominio de la informática y la inteligencia artificial
+
+A continuación, se ilustra la manera en que los objetivos y tecnologías del proyecto se alinean con las prácticas en desarrollo en los centros participantes.
+
+[Fragmento 4 | páginas 18, 19]
+## Fase 1: Preparación
+
+Identificación de Interesados: Enumeración de entidades clave como instituciones de investigación y proveedores de tecnología. Documentación Continua: Registro detallado de avances para futura difusión. Desarrollo de Materiales de Difusión: Creación de materiales informativos accesibles sobre el proyecto.
+
+Formación y Capacitación: Capacitación constante a los participantes para presentar resultados.
+
+[Fragmento 5 | páginas 17]
+## PLAN DE EVALUACIÓN
+
+| Objetivo1: Desarrollo del simulador - Indicadores                                                    | Objetivo1: Desarrollo del simulador - Instrumentos                                                                                                         |
+|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. Nivel de avance del desarrollo de la maqueta (porcentaje de fases capaces de alcanzar).           | 1. Encuentros periódicos del equipo de desarrollo y despliegue para analizar los avances realizados en la implementación de aplicaciones de IA en la nube. |
+| 2. Calidad de la maqueta (evaluación de la usabilidad de la maqueta y la documentación para su uso). | 2. Evaluaciones de funcionamiento llevadas a cabo por expertos dentro del marco de proyecto.                                                               |",,,
+q05,V0,¿Qué centro de innovación y desarrollo para la Formación Profesional promueve la formación específica en generación de Retos en la Tarea 17?,"El centro es TKNIKA, situado en el País Vasco, España [p. 9].","[Fragmento 1 | páginas 9]
+: Invitar a profesionales de la industria de la tecnología y la Inteligencia Artificial para compartir sus perspectivas sobre el mercado laboral y brindar consejos prácticos a los estudiantes
+
+## Línea 5 - Diseño y testeo de retos o proyectos de formación:
+
+1. Desarrollar una serie de retos ETHAZI prácticos y proyectos de formación basados en situaciones reales de la industria para el despliegue de aplicaciones de Inteligencia Artificial, que permitan a los estudiantes aplicar sus conocimientos teóricos en un entorno simulado y resolver problemas de manera activa y efectiva.
+- a. Tarea 17: Realización de formación específica en generación de Retos promovida por TKNIKA, centro de innovación y desarrollo para la Formación Profesional situado en el País Vasco, España. Su objetivo es promover
+
+[Fragmento 2 | páginas 9, 10]
+desarrollo para la Formación Profesional situado en el País Vasco, España. Su objetivo es promover la innovación y la mejora en la educación y formación profesional.
+- b. Tarea 18: Identificar situaciones reales de la industria de CI/CD para aplicaciones de IA y crear casos de estudio interactivos que desafíen a los estudiantes a aplicar sus conocimientos y habilidades en un entorno simulado.
+
+- c. Tarea 19: Diseñar escenarios de prueba variados que permitan a los estudiantes enfrentarse a diferentes desafíos, desde la optimización de la eficiencia hasta la resolución de problemas de rendimiento.
+2. Diseñar adaptaciones técnicas y estructurales en los espacios formativos para alinearlos con las nuevas metodologías de aprendizaje basado en retos, creando un entorno de formación dinámico y
+
+[Fragmento 3 | páginas 10]
+las nuevas metodologías de aprendizaje basado en retos, creando un entorno de formación dinámico y actualizado que refleje las tendencias y demandas de la industria tecnológica y de la Inteligencia Artificial.
+- a. Tarea 20: Evaluar la infraestructura actual de los espacios formativos y diseñar las modificaciones necesarias para permitir la realización de proyectos prácticos basados en retos.
+- b. Tarea 21: Adquirir y configurar el equipamiento necesario, como tecnología de CI/CD y herramientas de desarrollo de IA, para habilitar la realización efectiva de proyectos interactivos.
+
+## Línea 6 - Desarrollo de ecosistemas de innovación entre agentes del sector profesional:
+
+3. Fomentar la colaboración y la sinergia entre diferentes agentes profesionales, como empresas de tecnología, instituc
+
+[Fragmento 4 | páginas 9]
+para aplicaciones de IA.
+- b. Tarea 14: Establecer un programa de selección y apoyo a proyectos, proporcionando recursos y asesoramiento a los estudiantes emprendedores. Programas de emprendimiento en el Centro Formativo.
+2. Preparar a los estudiantes para el mercado laboral mediante la integración de tecnologías y habilidades relevantes, asegurando que estén listos para enfrentar los desafíos profesionales en la industria de la tecnología y la Inteligencia Artificial tras completar su formación.
+- a. Tarea 15: Desarrollar talleres sobre habilidades de empleabilidad específicas para el sector de tecnología y IA, incluyendo la preparación de currículos y técnicas de entrevista.
+- b. Tarea 16: Invitar a profesionales de la industria de la tecnología y la Inteligencia Artificial para compart
+
+[Fragmento 5 | páginas 3]
+ción, autonomía, implicación y trabajo en equipo. Adoptando un aprendizaje basado en retos, se incentivará la resolución de problemas y el pensamiento crítico, mientras que se adaptarán espacios formativos para albergar estas metodologías innovadoras. Linea 6: Desarrollo de ecosistemas de innovación estables entre los principales agentes de cada sector profesional estrechando y garantizando la colaboración, la excelencia del talento de sus profesionales y la transferencia del conocimiento entre centros de formación profesional, empresas y/o entidades especialistas en innovación del mismo. El proyecto busca estrechar la colaboración entre centros de formación, empresas líderes y entidades innovadoras. Centrándose en tecnologías avanzadas, promueve la transferencia de conocimiento y potencia",,,
+q06,V3,¿Cuál es la titulación del desarrollador backend mencionado en el perfil profesional?,"La titulación de David Romero, desarrollador backend, es Graduado en Ingeniería Informática [p. 6].","[Fragmento 1 | páginas 6, 7]
+## Dative
+
+-  Nombre participante: David Romero
+
+-  Titulación: Graduado en Ingeniería Informática
+-  Experiencia profesional: 10 años de desarrollador backend
+-  Experiencia en proyectos similares: Como desarrollador backend, ha estado muy involucrado en el uso y creación de pipelines, ayudando también en la generación de pipelines para MLOPS e IA
+-  Aportación al proyecto: En el proyecto será quien defina los pipelines necesarios para la compilación del proyecto de IA, Además juntos a otros compañeros y a modo de refuerzo estará involucrado en las sesiones de formación
+3. OBJETIVOS DEL PROYECTO
+
+[Fragmento 2 | páginas 5]
+## Instituto de Educación Secundaria Fernando Wirtz Suárez
+
+Nombre: Juan Francisco Puentes Calvo.
+
+Titulación: Doctor en Informática.
+
+[Fragmento 3 | páginas 6]
+## Centro de Formación Somorrostro
+
+-  Nombre del profesor: Mikel Díez García
+-  Titulación: Ingeniero en tecnología de telecomunicación con especialización en telemática. Especialización en Inteligencia Artificial y Big Data.
+-  Experiencia profesional:
+- o Profesor de ciclo formativo de grado medio en instalaciones de telecomunicación, de ciclo formativo de grado superior en sistemas de telecomunicación e informáticos y en el postciclo de Inteligencia Artificial y Big Data. Responsable actual la especialización en TKNIKA en el área de inteligencia artificial en el Centro de Formación Somorrostro.
+- o 7 Años de experiencia en el sector de las telecomunicaciones, ciberseguridad y monitorización de datos en empresa.
+-  Experiencia en proyectos similares: Participación en el proyecto de innovación e investigación, DUALIZA y FPempresa de MLAB5G con liberación horaria para el despliegue de un laboratorio móvil de comunicaciones 5G.
+- o Formación en ETHAZI por TKNIKA para la metodología de Aprendizaje basada en Retos.
+-  Aportación al proyecto: Experiencia profesional en proyectos reales en producción similares a este.
+
+A estos centros educativos se sumará Dative Partners:
+
+[Fragmento 4 | páginas 14, 16]
+## LÍNEA 4: Fomento de la competencia emprendedora y transición al mercado laboral
+
+|                                                                                                                                                                                                                                                                                                                 |                                                                                                             |                                                                                                       |                                                                                                             |                                                                                        |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| LÍNEA 6 : Desarrollo de ecosistemas de innovación entre agentes del sector profesional                                                                                                                                                                                                                          | LÍNEA 6 : Desarrollo de ecosistemas de innovación entre agentes del sector profesional                      | LÍNEA 6 : Desarrollo de ecosistemas de innovación entre agentes del sector profesional                | LÍNEA 6 : Desarrollo de ecosistemas de innovación entre agentes del sector profesional                      | LÍNEA 6 : Desarrollo de ecosistemas de innovación entre agentes del sector profesional |
+| RESULTADO ESPERADO                                                                                                                                                                                                                                                                                              | POTENCIALES BENEFICIARIOS                                                                                   | POTENCIALES BENEFICIARIOS                                                                             | POTENCIALES BENEFICIARIOS                                                                                   | POTENCIALES BENEFICIARIOS                                                              |
+|                                                                                                                                                                                                                                                                                                                 | ALUMNADO                                                                                                    | PROFESORADO                                                                                           | EMPRESAS                                                                                                    | CENTRO FP                                                                              |
+| Establecimiento de una red de colaboración estable entre centros de formación profesional, empresas y entidades especializadas en el campo de máquinas eléctricas rotativas, promoviendo la colaboración y el intercambio de conocimientos para impulsar la innovación y la excelencia en la formación técnica. | Tendrá acceso a una formación más actualizada y enriquecida por la experiencia de profesionales y empresas. | Ampliará su red de contactos y recursos, beneficiándose de la colaboración con el sector profesional. | Contribuirán a la formación de profesionales altamente capacitados, adaptados a las necesidades del sector. | Reforzarán su conexión con el entorno industrial, enriqueciendo la formación.          |
+| Establecimiento de una red de colaboración estable entre centros de formación profesional, empresas y entidades especializadas en el campo de máquinas eléctricas rotativas, promoviendo la colaboración y el intercambio de conocimientos para impulsar la innovación y la excelencia en la formación técnica. | 100 alumn./curso                                                                                            | 5 prof./curso                                                                                         | 25 empr. / curso                                                                                            | 2 centros FP                                                                           |
+
+[Fragmento 5 | páginas 13]
+## 5. RESULTADOS Y PRODUCTOS ESPERADOS POR LÍNEA DE ACTUACIÓN
+
+| LÍNEA 1: Innovación tecnológica y Transferencia de conocimiento entre empresas o entidades y centros de formación profesional - RESULTADO ESPERADO                                                                | LÍNEA 1: Innovación tecnológica y Transferencia de conocimiento entre empresas o entidades y centros de formación profesional - POTENCIALES BENEFICIARIOS - ALUMNADO   | LÍNEA 1: Innovación tecnológica y Transferencia de conocimiento entre empresas o entidades y centros de formación profesional - POTENCIALES BENEFICIARIOS - PROFESORADO   | LÍNEA 1: Innovación tecnológica y Transferencia de conocimiento entre empresas o entidades y centros de formación profesional - POTENCIALES BENEFICIARIOS - EMPRESAS   | LÍNEA 1: Innovación tecnológica y Transferencia de conocimiento entre empresas o entidades y centros de formación profesional - POTENCIALES BENEFICIARIOS - CENTRO FP   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Desarrollo e Implementación de un Sistema CI/CD para Aplicaciones de Inteligencia Artificial en la Nube, Integrando Tecnologías de monitorización y detección                                                     | Contará con acceso a un ambiente de aprendizaje tecnológicamente avanzado y actualizado.                                                                               | Tendrá la posibilidad de emplear una herramienta educativa de última generación para optimizar la formación.                                                              | Aportarán a la formación de profesionales altamente cualificados en el campo de despliegues de aplicaciones de IA en la nube usando CI/CD.                             | Accederán a un recurso de excelente calidad para potenciar la experiencia formativa.                                                                                    |
+| Desarrollo e Implementación de un Sistema CI/CD para Aplicaciones de Inteligencia Artificial en la Nube, Integrando Tecnologías de monitorización y detección                                                     | 125 alumn./curso                                                                                                                                                       | 5 prof./curso                                                                                                                                                             | 1 empresas                                                                                                                                                             | 2 centros FP                                                                                                                                                            |
+| de errores Desarrollo de relaciones firmes con corporaciones y entidades especializadas, impulsando la transmisión de saberes y tecnología entre el sector educativo y el de la informática y telecomunicaciones. | Se brindará acceso a saberes y métodos actualizados, de aplicación directa en el sector industrial.                                                                    | Expandirá su red de relaciones y conseguirá acceso a recursos y vivencias del entorno empresarial.                                                                        | Fortalecerá su relación con el sector de la informática y telecomunicaciones, potenciando la educación.                                                                | Tendrán la posibilidad de moldear la educación de futuros expertos, adecuando las competencias a las demandas del sector.                                               |
+| de errores Desarrollo de relaciones firmes con corporaciones y entidades especializadas, impulsando la transmisión de saberes y tecnología entre el sector educativo y el de la informática y telecomunicaciones. | 125 alumn./curso                                                                                                                                                       | 5 prof./curso                                                                                                                                                             | 1 empresas                                                                                                                                                             | 2 centros FP                                                                                                                                                            |",,,
+q07,V0,¿Cuál es el objetivo de la Tarea 9 dentro de la Línea 3 de promoción del equilibrio de género en la formación STEAM?,"El objetivo de la Tarea 9 es identificar y seleccionar mentoras con experiencia en disciplinas técnicas y de CI/CD para aplicaciones de IA, con el fin de guiar a las estudiantes interesadas [p. 8, 9].","[Fragmento 1 | páginas 8]
+lar en el desarrollo eficiente de aplicaciones de Inteligencia Artificial, enfocándose en la optimización de recursos y la reducción de desperdicios.
+- b. Tarea 8: Guiar a los estudiantes en la implementación de prácticas de economía circular en el demostrador, evaluando y analizando los resultados para fomentar la conciencia ambiental y la responsabilidad en el uso de recursos tecnológicos.
+
+## Línea 3 - Promoción del equilibrio de género en la formación STEAM:
+
+1. Implementar estrategias inclusivas que fomenten la participación activa de mujeres en el estudio y experimentación de CI/CD para aplicaciones de Inteligencia Artificial, creando un entorno formativo que promueva la igualdad de género en disciplinas técnicas.
+- a. Tarea 9: Identificar y seleccionar mentoras con experiencia en di
+
+[Fragmento 2 | páginas 2]
+o 5G, y aboga por el desarrollo sostenible a través de la reutilización eficiente de recursos. De esta manera, se alinea con la educación en áreas clave de la digitalización actual. Línea 3: Promoción del equilibrio de género en el acceso de la mujer a los perfiles de formación profesional relacionados directa o indirectamente con las titulaciones de formación profesional STEAM y a su inserción profesional. El proyecto surge como un mecanismo clave para realzar el equilibrio de género en el mundo STEAM. Al desarrollar un entorno formativo centrado en los procesos de CI/CD para IA, se construye una plataforma en la que todas las personas, independientemente de su género, pueden interactuar y crecer. La naturaleza intrínsecamente generalista de la IA ofrece una gran flexibilidad, permitiendo
+
+[Fragmento 3 | páginas 8, 9]
+nero en disciplinas técnicas.
+- a. Tarea 9: Identificar y seleccionar mentoras con experiencia en disciplinas técnicas y de CI/CD para aplicaciones de IA para guiar a las estudiantes interesadas.
+- b. Tarea 10: Organizar sesiones regulares de mentoría, brindando oportunidades para discusiones individuales y asesoramiento personalizado.
+
+2. Ofrecer oportunidades de mentoría y modelos a seguir para las estudiantes, destacando el éxito de mujeres en roles técnicos y de ingeniería en la industria de la tecnología y la Inteligencia Artificial.
+- a. Tarea 11: Invitar a mujeres destacadas en la industria de la tecnología y la Inteligencia Artificial a compartir sus experiencias y logros en eventos programados. Eventos inspiradores.
+- b. Tarea 12: Coordinar la logística y promoción de los eventos,
+
+[Fragmento 4 | páginas 14]
+| LÍNEA 3 : Promoción e incentivo del equilibrio de género - POTENCIALES BENEFICIARIOS - ALUMNADO                                                                                     | LÍNEA 3 : Promoción e incentivo del equilibrio de género - POTENCIALES BENEFICIARIOS - PROFESORADO                                                    | LÍNEA 3 : Promoción e incentivo del equilibrio de género - POTENCIALES BENEFICIARIOS - EMPRESAS                                         | LÍNEA 3 : Promoción e incentivo del equilibrio de género - POTENCIALES BENEFICIARIOS - CENTRO FP                                     |
+|----------------------------------------------------------------------------------------------------------------------------------------
+
+[Fragmento 5 | páginas 14]
+responsable de energía. | 125 alumn./curso                                                                                                              | 5 prof./curso                                                                                                                 | 25 empr./ curso                                                                                     | 2 centros FP                                                                                                           |
+
+| LÍNEA 3 : Promoción e incentivo del equilibrio de género - RESULTADO ESPERADO                                                                                                                                                                        | LÍNEA 3 : Promoción e incentivo del equilibr",,,
+q08,V3,¿Qué instrumento se utiliza para medir el impacto de las prácticas en la eficiencia y sostenibilidad en la tabla de indicadores de prácticas de economía circular?,"El instrumento utilizado es el análisis de datos sobre el impacto de las prácticas en la eficiencia y sostenibilidad [p. 17, 18].","[Fragmento 1 | páginas 17, 18]
+## PLAN DE EVALUACIÓN
+
+| Indicadores                                                                         | Instrumentos                                                                             |
+|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| 1. Número de prácticas de economía circular realizadas la maqueta.                  | 1. Registro de las prácticas de economía realizadas usando la maqueta                    |
+| 2. Evaluación de la eficacia de las prácticas para la optimización de los recursos. | 2. Análisis de datos sobre el impacto de las prácticas en la eficiencia y sostenibilidad |
+
+[Fragmento 2 | páginas 17, 18]
+## PLAN DE EVALUACIÓN
+
+|                                                                                                                        |                                                                                                                        |
+|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Objetivo 6: Establecimiento de una red de colaboración entre centros de formación, empresas y entidades especializadas | Objetivo 6: Establecimiento de una red de colaboración entre centros de formación, empresas y entidades especializadas |
+| Indicadores                                                                                                            | Instrumentos                                                                                                           |
+| 1. Número de eventos de networking organizados y participantes.                                                        | 1. Registros de participación y resultados de los eventos de networking.                                               |
+| 2. Evaluación de la eficacia de las prácticas de economía circular en la optimización de recursos.                     | 2. Encuestas de satisfacción y feedback de los participantes en los eventos.                                           |
+
+[Fragmento 3 | páginas 8]
+## Línea 2 - Desarrollo de competencias vinculadas a la digitalización y economía circular:
+
+1. Capacitar a los estudiantes en el uso de tecnologías y herramientas de CI/CD y aplicaciones de Inteligencia Artificial, proporcionando habilidades esenciales para la industria 4.0 y promoviendo la eficiencia y adaptabilidad en el desarrollo y despliegue de soluciones de software.
+- a. Tarea 5: Diseñar materiales de formación detallados sobre tecnologías y procesos de CI/CD y aplicaciones de Inteligencia Artificial.
+- b. Tarea 6: Impartir talleres prácticos donde los estudiantes apliquen las tecnologías y métodos aprendidos en el desarrollo, integración y despliegue de aplicaciones de IA.
+2. Integrar en el demostrador prácticas y desafíos relacionados con la economía circular, enseñando a los estudiantes cómo optimizar el rendimiento de las soluciones de IA y dimensionar los recursos usados en entornos cloud.
+- a. Tarea 7: Crear casos de estudio que destaquen la importancia de la economía circular en el desarrollo eficiente de aplicaciones de Inteligencia Artificial, enfocándose en la optimización de recursos y la reducción de desperdicios.
+- b. Tarea 8: Guiar a los estudiantes en la implementación de prácticas de economía circular en el demostrador, evaluando y analizando los resultados para fomentar la conciencia ambiental y la responsabilidad en el uso de recursos tecnológicos.
+
+[Fragmento 4 | páginas 17]
+## PLAN DE EVALUACIÓN
+
+| Objetivo 4: Integración de prácticas de economía circular en la maqueta   |
+|---------------------------------------------------------------------------|
+
+[Fragmento 5 | páginas 19]
+## Indicadores de Éxito:
+
+1. Volumen de tráfico en el sitio web del proyecto y nivel de interacción.
+2. Nivel de asistencia y contribución activa en los eventos, seminarios y talleres organizados.
+3. Cantidad y calidad de colaboraciones y alianzas forjadas con entidades y organizaciones relevantes del sector.
+4. Medición del impacto y aplicabilidad de los conocimientos transmitidos en los talleres y seminarios.
+5. Diversidad e inclusividad en la participación y representación en todas las actividades y aspectos del proyecto.",,,
+q09,V0,¿Qué instrumento se utiliza para medir el nivel de avance del desarrollo de la maqueta en el Objetivo 1?,El instrumento utilizado son los encuentros periódicos del equipo de desarrollo y despliegue para analizar los avances realizados en la implementación de aplicaciones de IA en la nube [p. 17].,"[Fragmento 1 | páginas 17]
+ia: Al finalizar cada evento.
+19.  Instrumento: Encuestas de satisfacción y análisis de participación.
+
+## PLAN DE EVALUACIÓN
+
+| Objetivo1: Desarrollo del simulador - Indicadores                                                    | Objetivo1: Desarrollo del simulador - Instrumentos                                                                                                         |
+|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. Nivel de avance del desarrollo de la maqueta (porcentaje de fases capaces de alcanzar).           | 1. Encuentros periódicos del equipo de desa
+
+[Fragmento 2 | páginas 17]
+a (porcentaje de fases capaces de alcanzar).           | 1. Encuentros periódicos del equipo de desarrollo y despliegue para analizar los avances realizados en la implementación de aplicaciones de IA en la nube. |
+| 2. Calidad de la maqueta (evaluación de la usabilidad de la maqueta y la documentación para su uso). | 2. Evaluaciones de funcionamiento llevadas a cabo por expertos dentro del marco de proyecto.                                                               |
+
+| Objetivo 2: Establecimiento de colaboraciones con empresas y entidades especializadas - Indicadores   | Objetivo 2: Establecimiento de colaboraciones con empresas y entidades especializadas - Instrumentos                                                 |
+|-----------------------------------------------------------------
+
+[Fragmento 3 | páginas 17, 18]
+| 1. Control de la asistencia a los cursos y capacitaciones.                                                             |
+| 2. Valoración de la puesta en práctica de las tecnologías adquiridas mediante la maqueta                              | 2. Evaluaciones de desempeño de los estudiantes en la aplicación de tecnologías en el                                  |
+
+| Objetivo 4: Integración de prácticas de economía circular en la maqueta   |
+|---------------------------------------------------------------------------|
+
+| Indicadores                                                                         | Instrumentos                                                                             |
+|------------------------------------------------------------------------------------
+
+[Fragmento 4 | páginas 18]
+|
+|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| 1. Número de prácticas de economía circular realizadas la maqueta.                  | 1. Registro de las prácticas de economía realizadas usando la maqueta                    |
+| 2. Evaluación de la eficacia de las prácticas para la optimización de los recursos. | 2. Análisis de datos sobre el impacto de las prácticas en la eficiencia y sostenibilidad |
+
+| Objetivo 5: Fomento de la competencia emprendedora y transición al mercado labora - Indicadores   | Objetivo 5: Fomento de la competencia emprendedora y transición al mercado labora - Instrumentos   |
+|-------------------------------------------
+
+[Fragmento 5 | páginas 16]
+| 2 centros FP                                                                           |
+
+## 6. SEGUIMIENTO Y EVALUACIÓN PLAN SE SEGUIMIENTO
+
+Este plan de seguimiento y evaluación permitirá monitorear de cerca el progreso del proyecto, identificar áreas de mejora y asegurarse de que se alcancen los objetivos planteados en cada una de las líneas de actuación.
+
+1. Reuniones de Seguimiento del Equipo de Proyecto:
+2.  Frecuencia: Mensualmente.
+3.  Participantes: Coordinador del proyecto, líderes de cada línea de acción y expertos en CI/CD e IA.
+2. Evaluación del Desempeño de las Aplicaciones Desplegadas:
+5.  Responsable: Equipo de desarrollo y despliegue.
+6.  Frecuencia: Trimestralmente.
+7.  Instrumento: Pruebas de fu",,,
+q10,V3,¿Cuántas empresas se beneficiarán por curso según el resultado esperado de capacitación en tecnologías de adquisición de datos y control de velocidad?,"Según el documento, se beneficiarán 2 empresas por curso en una de las líneas de capacitación, y 25 empresas por curso en la otra [p. 13, 14].","[Fragmento 1 | páginas 13, 14]
+## 5. RESULTADOS Y PRODUCTOS ESPERADOS POR LÍNEA DE ACTUACIÓN
+
+| RESULTADO ESPERADO                                                                                                                                                                                                            | POTENCIALES BENEFICIARIOS - ALUMNADO                                                                                          | POTENCIALES BENEFICIARIOS - PROFESORADO                                                                                       | POTENCIALES BENEFICIARIOS - EMPRESAS                                                                | POTENCIALES BENEFICIARIOS - CENTRO FP                                                                                  |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Capacitación efectiva de los estudiantes en el uso de tecnologías de adquisición de datos y control de velocidad, preparándolos para la industria 4.0 y promoviendo la eficiencia energética.                                 | Adquirirá habilidades esenciales para la industria 4.0, mejorando su empleabilidad.                                           | Reforzará su capacidad para enseñar tecnologías avanzadas y promover la eficiencia energética.                                | Se beneficiarán de profesionales mejor preparados y alineados con las tecnologías actuales.         | Ofrecerán una formación altamente relevante y actualizada, aumentando la competitividad de los estudiantes.            |
+| Capacitación efectiva de los estudiantes en el uso de tecnologías de adquisición de datos y control de velocidad, preparándolos para la industria 4.0 y promoviendo la eficiencia energética.                                 | 125 alumn./curso                                                                                                              | 5 prof./curso                                                                                                                 | 2 empresas                                                                                          | 2 centros FP                                                                                                           |
+| Proporcionará una formación integral en tecnologías para la recopilación de datos y regulación de velocidad, preparando a los estudiantes para los desafíos de la industria 4.0 y abogando por el uso responsable de energía. | Desarrollarán habilidades fundamentales para los requisitos de la industria 4.0, elevando su atractivo en el mercado laboral. | Intensificará su competencia para impartir conocimientos en tecnologías innovadoras y fomentar la sustentabilidad energética. | Gozarán de los aportes de profesionales mejor formados y actualizados con las últimas tecnologías.. | Brindarán una educación de gran relevancia y actualidad, potenciando la competitividad de los estudiantes en el campo. |
+| Proporcionará una formación integral en tecnologías para la recopilación de datos y regulación de velocidad, preparando a los estudiantes para los desafíos de la industria 4.0 y abogando por el uso responsable de energía. | 125 alumn./curso                                                                                                              | 5 prof./curso                                                                                                                 | 25 empr./ curso                                                                                     | 2 centros FP                                                                                                           |
+
+[Fragmento 2 | páginas 13]
+## 5. RESULTADOS Y PRODUCTOS ESPERADOS POR LÍNEA DE ACTUACIÓN
+
+| LÍNEA 1: Innovación tecnológica y Transferencia de conocimiento entre empresas o entidades y centros de formación profesional - RESULTADO ESPERADO                                                                | LÍNEA 1: Innovación tecnológica y Transferencia de conocimiento entre empresas o entidades y centros de formación profesional - POTENCIALES BENEFICIARIOS - ALUMNADO   | LÍNEA 1: Innovación tecnológica y Transferencia de conocimiento entre empresas o entidades y centros de formación profesional - POTENCIALES BENEFICIARIOS - PROFESORADO   | LÍNEA 1: Innovación tecnológica y Transferencia de conocimiento entre empresas o entidades y centros de formación profesional - POTENCIALES BENEFICIARIOS - EMPRESAS   | LÍNEA 1: Innovación tecnológica y Transferencia de conocimiento entre empresas o entidades y centros de formación profesional - POTENCIALES BENEFICIARIOS - CENTRO FP   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Desarrollo e Implementación de un Sistema CI/CD para Aplicaciones de Inteligencia Artificial en la Nube, Integrando Tecnologías de monitorización y detección                                                     | Contará con acceso a un ambiente de aprendizaje tecnológicamente avanzado y actualizado.                                                                               | Tendrá la posibilidad de emplear una herramienta educativa de última generación para optimizar la formación.                                                              | Aportarán a la formación de profesionales altamente cualificados en el campo de despliegues de aplicaciones de IA en la nube usando CI/CD.                             | Accederán a un recurso de excelente calidad para potenciar la experiencia formativa.                                                                                    |
+| Desarrollo e Implementación de un Sistema CI/CD para Aplicaciones de Inteligencia Artificial en la Nube, Integrando Tecnologías de monitorización y detección                                                     | 125 alumn./curso                                                                                                                                                       | 5 prof./curso                                                                                                                                                             | 1 empresas                                                                                                                                                             | 2 centros FP                                                                                                                                                            |
+| de errores Desarrollo de relaciones firmes con corporaciones y entidades especializadas, impulsando la transmisión de saberes y tecnología entre el sector educativo y el de la informática y telecomunicaciones. | Se brindará acceso a saberes y métodos actualizados, de aplicación directa en el sector industrial.                                                                    | Expandirá su red de relaciones y conseguirá acceso a recursos y vivencias del entorno empresarial.                                                                        | Fortalecerá su relación con el sector de la informática y telecomunicaciones, potenciando la educación.                                                                | Tendrán la posibilidad de moldear la educación de futuros expertos, adecuando las competencias a las demandas del sector.                                               |
+| de errores Desarrollo de relaciones firmes con corporaciones y entidades especializadas, impulsando la transmisión de saberes y tecnología entre el sector educativo y el de la informática y telecomunicaciones. | 125 alumn./curso                                                                                                                                                       | 5 prof./curso                                                                                                                                                             | 1 empresas                                                                                                                                                             | 2 centros FP                                                                                                                                                            |
+
+[Fragmento 3 | páginas 17]
+## PLAN DE EVALUACIÓN
+
+| Objetivo 3: Formación en tecnologías 5G para comunicaciones y aplicaciones con gran cantidad de datos - Indicadores   | Objetivo 3: Formación en tecnologías 5G para comunicaciones y aplicaciones con gran cantidad de datos - Instrumentos   |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| 1. Nivel de grado de asistencia y participación activa en los talleres de formación vinculados al proyecto            | 1. Control de la asistencia a los cursos y capacitaciones.                                                             |
+| 2. Valoración de la puesta en práctica de las tecnologías adquiridas mediante la maqueta                              | 2. Evaluaciones de desempeño de los estudiantes en la aplicación de tecnologías en el                                  |
+
+[Fragmento 4 | páginas 14, 15]
+## LÍNEA 4: Fomento de la competencia emprendedora y transición al mercado laboral
+
+| RESULTADO ESPERADO                                                                                                                                                                                                                                                    | POTENCIALES BENEFICIARIOS - ALUMNADO                                                                                                                              | POTENCIALES BENEFICIARIOS - PROFESORADO                                                                                                          | POTENCIALES BENEFICIARIOS - EMPRESAS                                                                                                        | POTENCIALES BENEFICIARIOS - CENTRO FP                                                                                                                          |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Establecimiento de un entorno favorable para el fomento de habilidades emprendedoras, permitiendo la incubación de proyectos vinculados a despliegues de aplicaciones de IA en la nube mediante CI/CD, y promoviendo el espíritu emprendedor en el entorno educativo. | Se brindarán oportunidades para cultivar habilidades de emprendimiento y ejecutar proyectos vanguardistas en el campo de la inteligencia artificial y CI/CD.      | Impulsará una cultura de emprendimiento y respaldará el desarrollo y la realización de proyectos estudiantiles en tecnologías de la información. | Serán capaces de identificar y respaldar iniciativas emprendedoras con gran potencial en el ámbito de despliegue de aplicaciones de IA.     | Se transformarán en centros que estimulan la innovación y el emprendimiento en el desarrollo y despliegue de tecnologías avanzadas.                            |
+|                                                                                                                                                                                                                                                                       | 125 alumn./curso                                                                                                                                                  | 5 prof./curso                                                                                                                                    | 10 empresas                                                                                                                                 | 2 centros FP                                                                                                                                                   |
+| Desarrollo de colaboraciones firmes con empresas y entidades especializadas, impulsando el flujo de conocimientos y tecnología entre el sector educativo y el industrial en el ámbito de despliegues de aplicaciones de IA en la nube usando CI/CD.                   | Se facilitará el acceso a saberes y prácticas innovadoras, de aplicación directa en la industria de la tecnología de la información y la inteligencia artificial. | Se verá ampliada su red de contactos, proporcionando acceso a recursos y experiencias en el mundo empresarial tecnológico.                       | Intensificará su conexión con la industria de la tecnología y la inteligencia artificial, enriqueciendo así la formación técnica y teórica. | Podrán jugar un rol significativo en la formación de los futuros profesionales del sector, adaptando las habilidades enseñadas a las necesidades industriales. |
+| Desarrollo de colaboraciones firmes con empresas y entidades especializadas, impulsando el flujo de conocimientos y tecnología entre el sector educativo y el industrial en el ámbito de despliegues de aplicaciones de IA en la nube usando CI/CD.                   | 125 alumn./curso                                                                                                                                                  | 5 prof./curso                                                                                                                                    | 2 empresas                                                                                                                                  | 2 centros FP                                                                                                                                                   |
+
+[Fragmento 5 | páginas 13, 14]
+## 5. RESULTADOS Y PRODUCTOS ESPERADOS POR LÍNEA DE ACTUACIÓN
+
+| LÍNEA 3 : Promoción e incentivo del equilibrio de género - RESULTADO ESPERADO                                                                                                                                                                        | LÍNEA 3 : Promoción e incentivo del equilibrio de género - POTENCIALES BENEFICIARIOS - ALUMNADO                                                                                     | LÍNEA 3 : Promoción e incentivo del equilibrio de género - POTENCIALES BENEFICIARIOS - PROFESORADO                                                    | LÍNEA 3 : Promoción e incentivo del equilibrio de género - POTENCIALES BENEFICIARIOS - EMPRESAS                                         | LÍNEA 3 : Promoción e incentivo del equilibrio de género - POTENCIALES BENEFICIARIOS - CENTRO FP                                     |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Aumento significativo en la participación activa de mujeres en la instrucción técnica y experimentación con tecnologías de CI/CD y aplicaciones de IA en la nube, estableciendo un ambiente educativo inclusivo y abogando por la paridad de género. | Las mujeres se percibirán más acogidas y tendrán más incentivos para integrarse en la formación en CI/CD y tecnologías de IA en la nube.                                            | Formarán parte de una comunidad educativa más variada y enriquecedora, centrada en el desarrollo y despliegue de aplicaciones de IA utilizando CI/CD. | Se aprovecharán de un entorno profesional futuro más variado y equitativo en el sector de la tecnología de la información.              | Promoverán la diversidad y la equidad de oportunidades en la formación en tecnologías avanzadas y prácticas de CI/CD.                |
+|                                                                                                                                                                                                                                                      | 125 alumn./curso                                                                                                                                                                    | 5 prof./curso                                                                                                                                         | 25 empr. / curso                                                                                                                        | 2 centros FP                                                                                                                         |
+| Proporcionar ejemplos a imitar y posibilidades de mentoría para las estudiantes, resaltando los logros de mujeres en posiciones técnicas e ingenieriles en la industria de CI/CD y aplicaciones en la nube.                                          | Las mujeres contarán con referentes a seguir y oportunidades para su desarrollo profesional en el ámbito de integración y entrega continua y la inteligencia artificial en la nube. | Aportará a la construcción de un ambiente educativo más inclusivo y comprometido con el éxito de todas las estudiantes en el campo tecnológico.       | Se aprovecharán de un equipo de trabajo más variado y lleno de talento, orientado hacia la tecnología de la información y comunicación. | Impulsarán una cultura de tutoría y avance profesional en el sector de desarrollo y despliegue de aplicaciones de IA mediante CI/CD. |
+| Proporcionar ejemplos a imitar y posibilidades de mentoría para las estudiantes, resaltando los logros de mujeres en posiciones técnicas e ingenieriles en la industria de CI/CD y aplicaciones en la nube.                                          | 125 alumn./curso                                                                                                                                                                    | 5 prof./curso                                                                                                                                         | 25 empr./ curso                                                                                                                         | 2 centros FP                                                                                                                         |",,,
+q11,V0,¿Cuántas empresas se beneficiarán por curso en la Línea 1 según el resultado esperado de Desarrollo e Implementación de un Sistema CI/CD para Aplicaciones de Inteligencia Artificial en la Nube?,No aparece en el documento.,"[Fragmento 1 | páginas 7]
+al. En última instancia, este demostrador potenciará la formación técnica y preparará a los alumnos para abordar con éxito los retos profesionales en el sector tecnológico, con un enfoque particular en tecnologías avanzadas y emergentes como la computación en la nube o el 5G
+
+## OBJETIVOS ESPECÍFICOS DEL PROYECTO POR LÍNEAS DE ACTUACIÓN
+
+## Línea 1 - Innovación tecnológica y transferencia de conocimiento:
+
+1. Desarrollar un demostrador de CI/CD para aplicaciones de Inteligencia Artificial que integre las últimas tecnologías de integración y despliegue continuo, permitiendo a los estudiantes experimentar con diversas configuraciones y casos de estudio.
+- a. Tarea 1: Constituir un equipo de expertos en CI/CD, cloud y aplicaciones de IA para diseñar la arquitectura y los procedimientos del de
+
+[Fragmento 2 | páginas 15]
+| Intensificará su conexión con la industria de la tecnología y la inteligencia artificial, enriqueciendo así la formación técnica y teórica. | Podrán jugar un rol significativo en la formación de los futuros profesionales del sector, adaptando las habilidades enseñadas a las necesidades industriales. |
+| Desarrollo de colaboraciones firmes con empresas y entidades especializadas, impulsando el flujo de conocimientos y tecnología entre el sector educativo y el industrial en el ámbito de despliegues de aplicaciones de IA en la nube usando CI/CD.                   | 125 alumn./curso                                                                                                                                                  | 5 prof./curso
+
+[Fragmento 3 | páginas 13]
+.                                                                               | Tendrá la posibilidad de emplear una herramienta educativa de última generación para optimizar la formación.                                                              | Aportarán a la formación de profesionales altamente cualificados en el campo de despliegues de aplicaciones de IA en la nube usando CI/CD.                             | Accederán a un recurso de excelente calidad para potenciar la experiencia formativa.                                                                                    |
+| Desarrollo e Implementación de un Sistema CI/CD para Aplicaciones de Inteligencia Artificial en la Nube, Integrando Tecnologías de monitorización y detección
+
+[Fragmento 4 | páginas 15]
+|
+| Desarrollo de colaboraciones firmes con empresas y entidades especializadas, impulsando el flujo de conocimientos y tecnología entre el sector educativo y el industrial en el ámbito de despliegues de aplicaciones de IA en la nube usando CI/CD.                   | Se facilitará el acceso a saberes y prácticas innovadoras, de aplicación directa en la industria de la tecnología de la información y la inteligencia artificial. | Se verá ampliada su red de contactos, proporcionando acceso a recursos y experiencias en el mundo empresarial tecnológico.                       | Intensificará su conexión con la industria de la tecnología y la inteligenc
+
+[Fragmento 5 | páginas 14]
+es en posiciones técnicas e ingenieriles en la industria de CI/CD y aplicaciones en la nube.                                          | 125 alumn./curso                                                                                                                                                                    | 5 prof./curso                                                                                                                                         | 25 empr./ curso                                                                                                                         | 2 centros FP                                                                                                                         |
+
+## LÍNEA 4: Fomento de la competencia emprendedora y tra",,,
+q12,V3,¿Cuántas empresas se beneficiarán por curso en el resultado esperado de establecimiento de un entorno favorable para el fomento de habilidades emprendedoras?,Se beneficiarán 10 empresas por curso [p. 14].,"[Fragmento 1 | páginas 14, 15]
+## LÍNEA 4: Fomento de la competencia emprendedora y transición al mercado laboral
+
+| RESULTADO ESPERADO                                                                                                                                                                                                                                                    | POTENCIALES BENEFICIARIOS - ALUMNADO                                                                                                                              | POTENCIALES BENEFICIARIOS - PROFESORADO                                                                                                          | POTENCIALES BENEFICIARIOS - EMPRESAS                                                                                                        | POTENCIALES BENEFICIARIOS - CENTRO FP                                                                                                                          |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Establecimiento de un entorno favorable para el fomento de habilidades emprendedoras, permitiendo la incubación de proyectos vinculados a despliegues de aplicaciones de IA en la nube mediante CI/CD, y promoviendo el espíritu emprendedor en el entorno educativo. | Se brindarán oportunidades para cultivar habilidades de emprendimiento y ejecutar proyectos vanguardistas en el campo de la inteligencia artificial y CI/CD.      | Impulsará una cultura de emprendimiento y respaldará el desarrollo y la realización de proyectos estudiantiles en tecnologías de la información. | Serán capaces de identificar y respaldar iniciativas emprendedoras con gran potencial en el ámbito de despliegue de aplicaciones de IA.     | Se transformarán en centros que estimulan la innovación y el emprendimiento en el desarrollo y despliegue de tecnologías avanzadas.                            |
+|                                                                                                                                                                                                                                                                       | 125 alumn./curso                                                                                                                                                  | 5 prof./curso                                                                                                                                    | 10 empresas                                                                                                                                 | 2 centros FP                                                                                                                                                   |
+| Desarrollo de colaboraciones firmes con empresas y entidades especializadas, impulsando el flujo de conocimientos y tecnología entre el sector educativo y el industrial en el ámbito de despliegues de aplicaciones de IA en la nube usando CI/CD.                   | Se facilitará el acceso a saberes y prácticas innovadoras, de aplicación directa en la industria de la tecnología de la información y la inteligencia artificial. | Se verá ampliada su red de contactos, proporcionando acceso a recursos y experiencias en el mundo empresarial tecnológico.                       | Intensificará su conexión con la industria de la tecnología y la inteligencia artificial, enriqueciendo así la formación técnica y teórica. | Podrán jugar un rol significativo en la formación de los futuros profesionales del sector, adaptando las habilidades enseñadas a las necesidades industriales. |
+| Desarrollo de colaboraciones firmes con empresas y entidades especializadas, impulsando el flujo de conocimientos y tecnología entre el sector educativo y el industrial en el ámbito de despliegues de aplicaciones de IA en la nube usando CI/CD.                   | 125 alumn./curso                                                                                                                                                  | 5 prof./curso                                                                                                                                    | 2 empresas                                                                                                                                  | 2 centros FP                                                                                                                                                   |
+
+[Fragmento 2 | páginas 14, 16]
+## LÍNEA 4: Fomento de la competencia emprendedora y transición al mercado laboral
+
+|                                                                                                                                                                                                                                                                                                                 |                                                                                                             |                                                                                                       |                                                                                                             |                                                                                        |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| LÍNEA 6 : Desarrollo de ecosistemas de innovación entre agentes del sector profesional                                                                                                                                                                                                                          | LÍNEA 6 : Desarrollo de ecosistemas de innovación entre agentes del sector profesional                      | LÍNEA 6 : Desarrollo de ecosistemas de innovación entre agentes del sector profesional                | LÍNEA 6 : Desarrollo de ecosistemas de innovación entre agentes del sector profesional                      | LÍNEA 6 : Desarrollo de ecosistemas de innovación entre agentes del sector profesional |
+| RESULTADO ESPERADO                                                                                                                                                                                                                                                                                              | POTENCIALES BENEFICIARIOS                                                                                   | POTENCIALES BENEFICIARIOS                                                                             | POTENCIALES BENEFICIARIOS                                                                                   | POTENCIALES BENEFICIARIOS                                                              |
+|                                                                                                                                                                                                                                                                                                                 | ALUMNADO                                                                                                    | PROFESORADO                                                                                           | EMPRESAS                                                                                                    | CENTRO FP                                                                              |
+| Establecimiento de una red de colaboración estable entre centros de formación profesional, empresas y entidades especializadas en el campo de máquinas eléctricas rotativas, promoviendo la colaboración y el intercambio de conocimientos para impulsar la innovación y la excelencia en la formación técnica. | Tendrá acceso a una formación más actualizada y enriquecida por la experiencia de profesionales y empresas. | Ampliará su red de contactos y recursos, beneficiándose de la colaboración con el sector profesional. | Contribuirán a la formación de profesionales altamente capacitados, adaptados a las necesidades del sector. | Reforzarán su conexión con el entorno industrial, enriqueciendo la formación.          |
+| Establecimiento de una red de colaboración estable entre centros de formación profesional, empresas y entidades especializadas en el campo de máquinas eléctricas rotativas, promoviendo la colaboración y el intercambio de conocimientos para impulsar la innovación y la excelencia en la formación técnica. | 100 alumn./curso                                                                                            | 5 prof./curso                                                                                         | 25 empr. / curso                                                                                            | 2 centros FP                                                                           |
+
+[Fragmento 3 | páginas 13, 14]
+## 5. RESULTADOS Y PRODUCTOS ESPERADOS POR LÍNEA DE ACTUACIÓN
+
+| RESULTADO ESPERADO                                                                                                                                                                                                            | POTENCIALES BENEFICIARIOS - ALUMNADO                                                                                          | POTENCIALES BENEFICIARIOS - PROFESORADO                                                                                       | POTENCIALES BENEFICIARIOS - EMPRESAS                                                                | POTENCIALES BENEFICIARIOS - CENTRO FP                                                                                  |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Capacitación efectiva de los estudiantes en el uso de tecnologías de adquisición de datos y control de velocidad, preparándolos para la industria 4.0 y promoviendo la eficiencia energética.                                 | Adquirirá habilidades esenciales para la industria 4.0, mejorando su empleabilidad.                                           | Reforzará su capacidad para enseñar tecnologías avanzadas y promover la eficiencia energética.                                | Se beneficiarán de profesionales mejor preparados y alineados con las tecnologías actuales.         | Ofrecerán una formación altamente relevante y actualizada, aumentando la competitividad de los estudiantes.            |
+| Capacitación efectiva de los estudiantes en el uso de tecnologías de adquisición de datos y control de velocidad, preparándolos para la industria 4.0 y promoviendo la eficiencia energética.                                 | 125 alumn./curso                                                                                                              | 5 prof./curso                                                                                                                 | 2 empresas                                                                                          | 2 centros FP                                                                                                           |
+| Proporcionará una formación integral en tecnologías para la recopilación de datos y regulación de velocidad, preparando a los estudiantes para los desafíos de la industria 4.0 y abogando por el uso responsable de energía. | Desarrollarán habilidades fundamentales para los requisitos de la industria 4.0, elevando su atractivo en el mercado laboral. | Intensificará su competencia para impartir conocimientos en tecnologías innovadoras y fomentar la sustentabilidad energética. | Gozarán de los aportes de profesionales mejor formados y actualizados con las últimas tecnologías.. | Brindarán una educación de gran relevancia y actualidad, potenciando la competitividad de los estudiantes en el campo. |
+| Proporcionará una formación integral en tecnologías para la recopilación de datos y regulación de velocidad, preparando a los estudiantes para los desafíos de la industria 4.0 y abogando por el uso responsable de energía. | 125 alumn./curso                                                                                                              | 5 prof./curso                                                                                                                 | 25 empr./ curso                                                                                     | 2 centros FP                                                                                                           |
+
+[Fragmento 4 | páginas 9]
+## Línea 4 - Fomento de la competencia emprendedora y transición al mercado laboral:
+
+1. Facilitar la creación de un ambiente propicio para el desarrollo de habilidades emprendedoras, proporcionando a los estudiantes recursos y orientación para la incubación de proyectos relacionados con aplicaciones de Inteligencia Artificial y su despliegue.
+- a. Tarea 13: Diseñar y acondicionar físicamente un espacio dentro del centro educativo para albergar proyectos emprendedores relacionados con CI/CD para aplicaciones de IA.
+- b. Tarea 14: Establecer un programa de selección y apoyo a proyectos, proporcionando recursos y asesoramiento a los estudiantes emprendedores. Programas de emprendimiento en el Centro Formativo.
+2. Preparar a los estudiantes para el mercado laboral mediante la integración de tecnologías y habilidades relevantes, asegurando que estén listos para enfrentar los desafíos profesionales en la industria de la tecnología y la Inteligencia Artificial tras completar su formación.
+- a. Tarea 15: Desarrollar talleres sobre habilidades de empleabilidad específicas para el sector de tecnología y IA, incluyendo la preparación de currículos y técnicas de entrevista.
+- b. Tarea 16: Invitar a profesionales de la industria de la tecnología y la Inteligencia Artificial para compartir sus perspectivas sobre el mercado laboral y brindar consejos prácticos a los estudiantes
+
+[Fragmento 5 | páginas 14, 15]
+## LÍNEA 4: Fomento de la competencia emprendedora y transición al mercado laboral
+
+| LÍNEA 5 : Diseño y testeo de retos o proyectos de formación - RESULTADO ESPERADO                                                                                                                                                                                                                                 | LÍNEA 5 : Diseño y testeo de retos o proyectos de formación - POTENCIALES BENEFICIARIOS - ALUMNADO                                                                                                                         | LÍNEA 5 : Diseño y testeo de retos o proyectos de formación - POTENCIALES BENEFICIARIOS - PROFESORADO                                                                                                           | LÍNEA 5 : Diseño y testeo de retos o proyectos de formación - POTENCIALES BENEFICIARIOS - EMPRESAS                                             | LÍNEA 5 : Diseño y testeo de retos o proyectos de formación - POTENCIALES BENEFICIARIOS - CENTRO FP   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Desarrollo de modificaciones técnicas en los ambientes educativos para sincronizarlos con las innovadoras metodologías de aprendizaje basado en desafíos, instaurando un espacio de enseñanza dinámico y actualizado a las tendencias y requerimientos de la industria de CI/CD y aplicaciones de IA en la nube. | Experimentarán un espacio educativo más dinámico y concordante con las tendencias de la industria tecnológica.                                                                                                             | Dispondrán de espacios modernizados y ajustados a las vanguardistas técnicas de enseñanza en el ámbito de la inteligencia artificial y CI/CD.                                                                   | Proporcionarán acceso a profesionales educados en ambientes análogos a los industriales.                                                       | Presentarán un enfoque educativo más contemporáneo y atractivo para la comunidad estudiantil.         |
+|                                                                                                                                                                                                                                                                                                                  | 125 alumn./curso                                                                                                                                                                                                           | 5 prof./curso                                                                                                                                                                                                   | 25 empr. / curso                                                                                                                               | 2 centros FP                                                                                          |
+| Realización de ajustes técnicos en los ambientes de aprendizaje para sincronizarlos con las metodologías innovadoras basadas en desafíos, estableciendo un espacio de enseñanza vibrante y actual, acorde a las tendencias y necesidades de la industria de despliegues de                                       | Realización de ajustes técnicos en los ambientes de aprendizaje para sincronizarlos con las metodologías innovadoras basadas en desafíos, estableciendo un espacio de enseñanza vibrante y actual, acorde a las tendencias | Realización de ajustes técnicos en los ambientes de aprendizaje para sincronizarlos con las metodologías innovadoras basadas en desafíos, estableciendo un espacio de enseñanza vibrante y actual, acorde a las | Facilitarán el acceso a expertos formados en entornos alineados con las prácticas de despliegue de aplicaciones de IA en la nube usando CI/CD. | Propondrán una experiencia educativa más avanzada y estimulante para los estudiantes.                 |",,,
+q13,V0,¿Cuántos centros de FP se beneficiarán por curso según el resultado esperado de Desarrollo e Implementación de un Sistema CI/CD para Aplicaciones de Inteligencia Artificial en la Nube?,"Se beneficiarán 2 centros de FP por curso [p. 14, 15, 16].","[Fragmento 1 | páginas 14]
+es en posiciones técnicas e ingenieriles en la industria de CI/CD y aplicaciones en la nube.                                          | 125 alumn./curso                                                                                                                                                                    | 5 prof./curso                                                                                                                                         | 25 empr./ curso                                                                                                                         | 2 centros FP                                                                                                                         |
+
+## LÍNEA 4: Fomento de la competencia emprendedora y tra
+
+[Fragmento 2 | páginas 16]
+tendencias y necesidades de la industria de despliegues de aplicaciones de IA en la nube usando CI/CD.   |                 |              |
+|-----------------------------------------------|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------------|--------------|
+|                                               | 125 alumn./curso                                                                              | 5 prof./curso                                                                                            | 25 empr./ curso | 2 centros FP |
+
+|
+
+[Fragmento 3 | páginas 13]
+.                                                                               | Tendrá la posibilidad de emplear una herramienta educativa de última generación para optimizar la formación.                                                              | Aportarán a la formación de profesionales altamente cualificados en el campo de despliegues de aplicaciones de IA en la nube usando CI/CD.                             | Accederán a un recurso de excelente calidad para potenciar la experiencia formativa.                                                                                    |
+| Desarrollo e Implementación de un Sistema CI/CD para Aplicaciones de Inteligencia Artificial en la Nube, Integrando Tecnologías de monitorización y detección
+
+[Fragmento 4 | páginas 15]
+| Intensificará su conexión con la industria de la tecnología y la inteligencia artificial, enriqueciendo así la formación técnica y teórica. | Podrán jugar un rol significativo en la formación de los futuros profesionales del sector, adaptando las habilidades enseñadas a las necesidades industriales. |
+| Desarrollo de colaboraciones firmes con empresas y entidades especializadas, impulsando el flujo de conocimientos y tecnología entre el sector educativo y el industrial en el ámbito de despliegues de aplicaciones de IA en la nube usando CI/CD.                   | 125 alumn./curso                                                                                                                                                  | 5 prof./curso
+
+[Fragmento 5 | páginas 14]
+| 5 prof./curso                                                                                                                                         | 25 empr. / curso                                                                                                                        | 2 centros FP                                                                                                                         |
+| Proporcionar ejemplos a imitar y posibilidades de mentoría para las estudiantes, resaltando los logros de mujeres en posiciones técnicas e ingenieriles en la industria de CI/CD y aplicaciones en la nube.                                          | Las mujeres contarán con referentes a seguir y oportunidades para su desarrollo profesional en el ámbito de integración",,,
+q14,V3,¿Cuál es el coste total presupuestado para los gastos de auditoría en el apartado 1.2.1?,"El coste total presupuestado para los gastos de auditoría es de 2,400 € [p. 19].","[Fragmento 1 | páginas 19, 20]
+## 8.1 Presupuesto General
+
+| 1.1.1.- Primera reunión de coordinación en Muskiz (Bizkaia)   | 1,310 €   | 80 €     | 0 €   | 1,390 €   |
+|---------------------------------------------------------------|-----------|----------|-------|-----------|
+| Alojamiento 2 días.                                           | 350 €     |          |       | 350 €     |
+| Manutención 3 días.                                           | 360 €     | 80 €     |       | 440 €     |
+| Desplazamiento                                                | 600 €     |          |       | 600 €     |
+| 1.1.2.- Segunda reunión de coordinación en A Coruña           | 80 €      | 1,310 €  |       | 1,390 €   |
+| Alojamiento 1 día                                             |           | 360 €    |       | 360 €     |
+| manutención 2 días                                            | 80 €      | 350 €    |       | 430 €     |
+| Desplazamiento                                                |           | 600 €    |       | 600 €     |
+| 1.2.1.- Gastos de Auditoría (aprox. 0.5% subvención)          | 1,200 €   | 1,200 €  |       | 2,400 €   |
+| 2.- Alquiler de equipos y formación específica técnica        | 38,000 €  | 38,000 € | 0 €   | 76,000 €  |
+| Alquiler de equipo                                            | 26100     | 25800    |       | 51,900 €  |
+| Formación específica técnica                                  | 13200     | 13200    |       | 26,400 €  |
+|                                                               |           |          |       | 39,000 €  |
+| 3.- Gastos de Personal                                        | 0 €       | 6,000 €  | 20000 | 26,000 €  |
+| Horas de trabajo                                              |           | 7000     |       | 7,000 €   |
+| 4.- Difusión del proyecto                                     | 2,000 €   | 2,000 €  | 0 €   | 4,000 €   |
+| Difusión en centros de formación, empresas y asociaciones.    | 2,000 €   | 2,000 €  | 0 €   | 4,000 €   |
+| 5.- Gastos de imprevistos                                     | 2,000 €   | 1,000 €  |       | 3,000 €   |
+| Total por centro                                              | 44,590 €  | 49,590 € | 20000 | 114,180 € |
+
+[Fragmento 2 | páginas 20]
+## 8.2 Desglose y especificación de todos los gastos previstos:
+
+| CONCEPTO                               | AÑO 1 - MES 1-3   | AÑO 1 - MES 3-6   | AÑO 1 - MES 6-9   | AÑO 1 - MES 9-12   | AÑO 2 - MES 1-3   | AÑO 2 - MES 3-6   | AÑO 2 - MES 6-9   | AÑO 2 - MES 9-12   |
+|----------------------------------------|-------------------|-------------------|-------------------|--------------------|-------------------|-------------------|-------------------|--------------------|
+| CONSULTORIA TÉCNICA + TRABAJO TECNICO  |                   |                   |                   |                    |                   |                   |                   |                    |
+| FORMACION TÉCNICA                      |                   |                   |                   |                    |                   |                   |                   |                    |
+| DESARROLLO COMPONENTES                 |                   |                   |                   |                    |                   |                   |                   |                    |
+| VISITA DE TRABAJO A CIFP SOMORROSTRO   |                   |                   |                   |                    |                   |                   |                   |                    |
+| VISITA DE TRABAJO A IES Fernando Writz |                   |                   |                   |                    |                   |                   |                   |                    |
+| DIFUSION                               |                   |                   |                   |                    |                   |                   |                   |                    |
+| HORAS TRABAJO EMPRESA DATIVE           |                   |                   |                   |                    |                   |                   |                   |                    |
+| AUDITORIÍA                             |                   |                   |                   |                    |                   |                   |                   |                    |
+
+[Fragmento 3 | páginas 20]
+## 8.2 Desglose y especificación de todos los gastos previstos:
+
+A continuación de especifica el desglose por trimestre de los conceptos del presupuesto
+
+[Fragmento 4 | páginas 19]
+## 8.1 Presupuesto General
+
+| TRABAJOS A DESARROLLAR   | IES Fernando Writz   | CF Somorrostro   | Empresa   | TOTAL PROYECTO   |
+|--------------------------|----------------------|------------------|-----------|------------------|
+| 1.- Gestión del proyecto | 2,590 €              | 2,590 €          | 0 €       | 5,180 €          |
+
+[Fragmento 5 | páginas 17, 18]
+## PLAN DE EVALUACIÓN
+
+| Indicadores                                                                         | Instrumentos                                                                             |
+|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| 1. Número de prácticas de economía circular realizadas la maqueta.                  | 1. Registro de las prácticas de economía realizadas usando la maqueta                    |
+| 2. Evaluación de la eficacia de las prácticas para la optimización de los recursos. | 2. Análisis de datos sobre el impacto de las prácticas en la eficiencia y sostenibilidad |",,,
+q15,V0,"En el diagrama de infinito de MLOps, ¿qué palabra aparece escrita en la parte superior de la sección gris?",No aparece en el documento.,"[Fragmento 1 | páginas 20]
+|                   |                   |                    |                   |                   |                   |                    |
+
+[Fragmento 2 | páginas 13]
+5%                         | 30%   | 45%      |
+| FASE 2         | 25%                         | 30%   | 45%      |
+| FASE 3         | 25%                         | 30%   | 45%      |
+| FASE 4         | 30%                         | 60%   | 10%      |
+| FASE 5         | 33%                         | 33%   | 33%      |
+
+Asimismo, las actividades asociadas tendrán la temporalidad que se muestra en la tabla a continuación a lo largo de los 24 meses de duración del proyecto, las columnas representan el mes en el que se ejecuta dicha tarea:
+
+<!-- image -->
+
+## 5. RESULTADOS Y PRODUCTOS ESPERADOS POR LÍNEA DE ACTUACIÓN
+
+LÍNEA 2 : Desarrollo de competencias vinculadas a la digitalización y economía circular
+
+| LÍNEA 1: Innovación tecnológica y Transferencia de conocimiento entre empresas o entida
+
+[Fragmento 3 | páginas 15]
+| 5 prof./curso                                                                                                                                    | 2 empresas                                                                                                                                  | 2 centros FP                                                                                                                                                   |
+
+| LÍNEA 5 : Diseño y testeo de retos o proyectos de formación - RESULTADO ESPERADO
+
+[Fragmento 4 | páginas 12]
+T12 |               |               |               |
+| FASE 2 | T4         | T7             |                   |               |               | T24           |
+| FASE 3 |            | T5, T6, T7, T8 |                   |               |               |               |
+| FASE 4 |            |                |                   |               | T17, T18, T19 |               |
+| FASE 5 |            |                |                   | T13, T14, T15 |               | T24, T25, T26 |
+
+## PLAN DE TRABAJO - ACCIONES PLANIFICADAS
+
+Se detallarán una serie de acciones a realizar para todos los miembros del proyecto implicados.
+
+Al seguir estas acciones planificadas, se establecerá un organigrama de trabajo sólido que contribuirá al éxito del proyecto. La gestión eficiente del equipo es esenci
+
+[Fragmento 5 | páginas 14]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------",,,
+q16,V3,¿Qué tareas están asignadas a la intersección entre la Fase 5 y la Línea 4 en la matriz de tareas por línea y fase?,"Las tareas asignadas a la intersección entre la Fase 5 y la Línea 4 son T13, T14 y T15 [p. 12].","[Fragmento 1 | páginas 12]
+## 4.2 TAREAS POR LÍNEA Y FASE
+
+|        | LÍNEA 1    | LÍNEA 2        | LÍNEA 3           | LÍNEA 4       | LÍNEA 5       | LÍNEA6        |
+|--------|------------|----------------|-------------------|---------------|---------------|---------------|
+| FASE 1 | T1, T2, T3 |                | T9, T10, T11, T12 |               |               |               |
+| FASE 2 | T4         | T7             |                   |               |               | T24           |
+| FASE 3 |            | T5, T6, T7, T8 |                   |               |               |               |
+| FASE 4 |            |                |                   |               | T17, T18, T19 |               |
+| FASE 5 |            |                |                   | T13, T14, T15 |               | T24, T25, T26 |
+
+[Fragmento 2 | páginas 11]
+## Fase 2: Establecimiento de Alianzas y Formación
+
+-  Acción 4: Organización de reuniones y sesiones de intercambio de saberes entre equipos de desarrollo y operaciones (Establecimiento de Alianzas Estratégicas, Tarea 4 - Línea 1, Tarea 24 - Línea 6).
+-  Acción 5: Desarrollo de programas formativos enfocados en CI/CD y metodologías DevOps (Formación en CI/CD, Tarea 7- Línea 2).
+
+
+
+[Fragmento 3 | páginas 11]
+## Fase 4: Creación de Estudios de Caso Interactivos y Ajuste de Áreas Educativas
+
+-  Acción 8: Creación de estudios de caso interactivos basados en situaciones reales de la industria del software (Creación de Estudios de Caso Interactivos, Tarea 17, Tarea 18 - Línea 5).
+-  Acción 9: Análisis y ajuste de áreas educativas para impulsar el aprendizaje basado en retos CI/CD (Ajuste de Áreas Educativas, Tarea 19 - Línea 5).
+
+[Fragmento 4 | páginas 11, 12]
+## Fase 5: Formación de Equipos de Trabajo y Organización de Eventos de Networking
+
+-  Acción 10: Selección y formación de equipos multidisciplinarios integrados por miembros de grupos de desarrollo, operaciones y entidades especializadas (Constitución de Equipos Multidisciplinarios, Tarea 25, Tarea 26 - Línea 6).
+-  Acción 11: Organización de eventos de networking con el fin de incentivar la colaboración e intercambio de conocimientos entre actores esenciales del sector de software (Organización de Eventos para Networking, Tarea 24 - Línea 6).
+-  Acción 12: Desarrollo de programas de orientación laboral, que incluyan sesiones sobre habilidades específicas de empleabilidad para el ámbito de desarrollo de software (Programas de Orientación Laboral, Tarea 15 - Línea 4).
+-  Acción 13: Establecimiento de áreas de incubación de proyectos en el centro educativo para apoyar a estudiantes emprendedores en iniciativas relacionadas con el desarrollo
+
+de software (Establecimiento de Áreas de Incubación de Proyectos, Tarea 13, Tarea 14 - Línea 4).
+
+[Fragmento 5 | páginas 14, 15]
+## LÍNEA 4: Fomento de la competencia emprendedora y transición al mercado laboral
+
+| LÍNEA 5 : Diseño y testeo de retos o proyectos de formación - RESULTADO ESPERADO                                                                                                                                                                                                                                 | LÍNEA 5 : Diseño y testeo de retos o proyectos de formación - POTENCIALES BENEFICIARIOS - ALUMNADO                                                                                                                         | LÍNEA 5 : Diseño y testeo de retos o proyectos de formación - POTENCIALES BENEFICIARIOS - PROFESORADO                                                                                                           | LÍNEA 5 : Diseño y testeo de retos o proyectos de formación - POTENCIALES BENEFICIARIOS - EMPRESAS                                             | LÍNEA 5 : Diseño y testeo de retos o proyectos de formación - POTENCIALES BENEFICIARIOS - CENTRO FP   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Desarrollo de modificaciones técnicas en los ambientes educativos para sincronizarlos con las innovadoras metodologías de aprendizaje basado en desafíos, instaurando un espacio de enseñanza dinámico y actualizado a las tendencias y requerimientos de la industria de CI/CD y aplicaciones de IA en la nube. | Experimentarán un espacio educativo más dinámico y concordante con las tendencias de la industria tecnológica.                                                                                                             | Dispondrán de espacios modernizados y ajustados a las vanguardistas técnicas de enseñanza en el ámbito de la inteligencia artificial y CI/CD.                                                                   | Proporcionarán acceso a profesionales educados en ambientes análogos a los industriales.                                                       | Presentarán un enfoque educativo más contemporáneo y atractivo para la comunidad estudiantil.         |
+|                                                                                                                                                                                                                                                                                                                  | 125 alumn./curso                                                                                                                                                                                                           | 5 prof./curso                                                                                                                                                                                                   | 25 empr. / curso                                                                                                                               | 2 centros FP                                                                                          |
+| Realización de ajustes técnicos en los ambientes de aprendizaje para sincronizarlos con las metodologías innovadoras basadas en desafíos, estableciendo un espacio de enseñanza vibrante y actual, acorde a las tendencias y necesidades de la industria de despliegues de                                       | Realización de ajustes técnicos en los ambientes de aprendizaje para sincronizarlos con las metodologías innovadoras basadas en desafíos, estableciendo un espacio de enseñanza vibrante y actual, acorde a las tendencias | Realización de ajustes técnicos en los ambientes de aprendizaje para sincronizarlos con las metodologías innovadoras basadas en desafíos, estableciendo un espacio de enseñanza vibrante y actual, acorde a las | Facilitarán el acceso a expertos formados en entornos alineados con las prácticas de despliegue de aplicaciones de IA en la nube usando CI/CD. | Propondrán una experiencia educativa más avanzada y estimulante para los estudiantes.                 |",,,
+q17,V0,"En el cronograma de actividades, ¿qué celdas están marcadas con una X en la FASE 3?",No aparece en el documento.,"[Fragmento 1 | páginas 12]
+T12 |               |               |               |
+| FASE 2 | T4         | T7             |                   |               |               | T24           |
+| FASE 3 |            | T5, T6, T7, T8 |                   |               |               |               |
+| FASE 4 |            |                |                   |               | T17, T18, T19 |               |
+| FASE 5 |            |                |                   | T13, T14, T15 |               | T24, T25, T26 |
+
+## PLAN DE TRABAJO - ACCIONES PLANIFICADAS
+
+Se detallarán una serie de acciones a realizar para todos los miembros del proyecto implicados.
+
+Al seguir estas acciones planificadas, se establecerá un organigrama de trabajo sólido que contribuirá al éxito del proyecto. La gestión eficiente del equipo es esenci
+
+[Fragmento 2 | páginas 13]
+5%                         | 30%   | 45%      |
+| FASE 2         | 25%                         | 30%   | 45%      |
+| FASE 3         | 25%                         | 30%   | 45%      |
+| FASE 4         | 30%                         | 60%   | 10%      |
+| FASE 5         | 33%                         | 33%   | 33%      |
+
+Asimismo, las actividades asociadas tendrán la temporalidad que se muestra en la tabla a continuación a lo largo de los 24 meses de duración del proyecto, las columnas representan el mes en el que se ejecuta dicha tarea:
+
+<!-- image -->
+
+## 5. RESULTADOS Y PRODUCTOS ESPERADOS POR LÍNEA DE ACTUACIÓN
+
+LÍNEA 2 : Desarrollo de competencias vinculadas a la digitalización y economía circular
+
+| LÍNEA 1: Innovación tecnológica y Transferencia de conocimiento entre empresas o entida
+
+[Fragmento 3 | páginas 11, 12]
+íficas de empleabilidad para el ámbito de desarrollo de software (Programas de Orientación Laboral, Tarea 15 - Línea 4).
+-  Acción 13: Establecimiento de áreas de incubación de proyectos en el centro educativo para apoyar a estudiantes emprendedores en iniciativas relacionadas con el desarrollo
+
+de software (Establecimiento de Áreas de Incubación de Proyectos, Tarea 13, Tarea 14 - Línea 4).
+
+## 4.2 TAREAS POR LÍNEA Y FASE
+
+|        | LÍNEA 1    | LÍNEA 2        | LÍNEA 3           | LÍNEA 4       | LÍNEA 5       | LÍNEA6        |
+|--------|------------|----------------|-------------------|---------------|---------------|---------------|
+| FASE 1 | T1, T2, T3 |                | T9, T10, T11, T12 |               |               |               |
+| FASE 2 | T4         | T7             |
+
+[Fragmento 4 | páginas 11]
+rrollo del Sistema CI/CD, Tarea 2 - Línea 1).
+-  Acción 3: Identificación de especialistas y líderes en CI/CD para charlas y workshops futuros (Mentorías y Charlas Informativas, Tarea 9, Tarea 10, Tarea 11, Tarea 12 - Línea 3).
+
+## Fase 2: Establecimiento de Alianzas y Formación
+
+-  Acción 4: Organización de reuniones y sesiones de intercambio de saberes entre equipos de desarrollo y operaciones (Establecimiento de Alianzas Estratégicas, Tarea 4 - Línea 1, Tarea 24 - Línea 6).
+-  Acción 5: Desarrollo de programas formativos enfocados en CI/CD y metodologías DevOps (Formación en CI/CD, Tarea 7- Línea 2).
+
+
+
+## Fase 3: Desarrollo de Programas Educativos Especializados
+
+-  Acción 6: Ejecución de workshops prácticos sobre el uso de herramientas y tecnologías CI/CD (Programas Educativos Es
+
+[Fragmento 5 | páginas 11]
+reas Educativas, Tarea 19 - Línea 5).
+
+## Fase 5: Formación de Equipos de Trabajo y Organización de Eventos de Networking
+
+-  Acción 10: Selección y formación de equipos multidisciplinarios integrados por miembros de grupos de desarrollo, operaciones y entidades especializadas (Constitución de Equipos Multidisciplinarios, Tarea 25, Tarea 26 - Línea 6).
+-  Acción 11: Organización de eventos de networking con el fin de incentivar la colaboración e intercambio de conocimientos entre actores esenciales del sector de software (Organización de Eventos para Networking, Tarea 24 - Línea 6).
+-  Acción 12: Desarrollo de programas de orientación laboral, que incluyan sesiones sobre habilidades específicas de empleabilidad para el ámbito de desarrollo de software (Programas de Orientación Laboral,",,,
+q18,V3,"En el cronograma de desglose por trimestre, ¿qué celdas están marcadas con color verde en la fila correspondiente a la Visita de trabajo a IES Fernando Writz?",No aparece en el documento.,"[Fragmento 1 | páginas 20]
+## 8.2 Desglose y especificación de todos los gastos previstos:
+
+| CONCEPTO                               | AÑO 1 - MES 1-3   | AÑO 1 - MES 3-6   | AÑO 1 - MES 6-9   | AÑO 1 - MES 9-12   | AÑO 2 - MES 1-3   | AÑO 2 - MES 3-6   | AÑO 2 - MES 6-9   | AÑO 2 - MES 9-12   |
+|----------------------------------------|-------------------|-------------------|-------------------|--------------------|-------------------|-------------------|-------------------|--------------------|
+| CONSULTORIA TÉCNICA + TRABAJO TECNICO  |                   |                   |                   |                    |                   |                   |                   |                    |
+| FORMACION TÉCNICA                      |                   |                   |                   |                    |                   |                   |                   |                    |
+| DESARROLLO COMPONENTES                 |                   |                   |                   |                    |                   |                   |                   |                    |
+| VISITA DE TRABAJO A CIFP SOMORROSTRO   |                   |                   |                   |                    |                   |                   |                   |                    |
+| VISITA DE TRABAJO A IES Fernando Writz |                   |                   |                   |                    |                   |                   |                   |                    |
+| DIFUSION                               |                   |                   |                   |                    |                   |                   |                   |                    |
+| HORAS TRABAJO EMPRESA DATIVE           |                   |                   |                   |                    |                   |                   |                   |                    |
+| AUDITORIÍA                             |                   |                   |                   |                    |                   |                   |                   |                    |
+
+[Fragmento 2 | páginas 19]
+## 8.1 Presupuesto General
+
+| TRABAJOS A DESARROLLAR   | IES Fernando Writz   | CF Somorrostro   | Empresa   | TOTAL PROYECTO   |
+|--------------------------|----------------------|------------------|-----------|------------------|
+| 1.- Gestión del proyecto | 2,590 €              | 2,590 €          | 0 €       | 5,180 €          |
+
+[Fragmento 3 | páginas 20]
+## 8.2 Desglose y especificación de todos los gastos previstos:
+
+A continuación de especifica el desglose por trimestre de los conceptos del presupuesto
+
+[Fragmento 4 | páginas 12, 13]
+## TAREAS A REALIZAR PREVIAS A COMENZAR LA EJECUCIÓN DEL PROYECTO
+
+| PARTICIPANTE   | IES Fernando Wirtz Suárez   | CFS   | Dative   |
+|----------------|-----------------------------|-------|----------|
+| FASE 1         | 25%                         | 30%   | 45%      |
+| FASE 2         | 25%                         | 30%   | 45%      |
+| FASE 3         | 25%                         | 30%   | 45%      |
+| FASE 4         | 30%                         | 60%   | 10%      |
+| FASE 5         | 33%                         | 33%   | 33%      |
+
+[Fragmento 5 | páginas 1]
+## 1.2 CENTRO COORDINADOR DEL PROYECTO
+
+Instituto de Educación Secundaria Fernando Wirtz Suárez",,,
+q19,V0,"En el diagrama de infinito de MLOps, ¿qué palabra aparece escrita en la parte inferior de la sección gris?",No aparece en el documento.,"[Fragmento 1 | páginas 20]
+|                   |                   |                    |                   |                   |                   |                    |
+
+[Fragmento 2 | páginas 13]
+5%                         | 30%   | 45%      |
+| FASE 2         | 25%                         | 30%   | 45%      |
+| FASE 3         | 25%                         | 30%   | 45%      |
+| FASE 4         | 30%                         | 60%   | 10%      |
+| FASE 5         | 33%                         | 33%   | 33%      |
+
+Asimismo, las actividades asociadas tendrán la temporalidad que se muestra en la tabla a continuación a lo largo de los 24 meses de duración del proyecto, las columnas representan el mes en el que se ejecuta dicha tarea:
+
+<!-- image -->
+
+## 5. RESULTADOS Y PRODUCTOS ESPERADOS POR LÍNEA DE ACTUACIÓN
+
+LÍNEA 2 : Desarrollo de competencias vinculadas a la digitalización y economía circular
+
+| LÍNEA 1: Innovación tecnológica y Transferencia de conocimiento entre empresas o entida
+
+[Fragmento 3 | páginas 14]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------
+
+[Fragmento 4 | páginas 12]
+T12 |               |               |               |
+| FASE 2 | T4         | T7             |                   |               |               | T24           |
+| FASE 3 |            | T5, T6, T7, T8 |                   |               |               |               |
+| FASE 4 |            |                |                   |               | T17, T18, T19 |               |
+| FASE 5 |            |                |                   | T13, T14, T15 |               | T24, T25, T26 |
+
+## PLAN DE TRABAJO - ACCIONES PLANIFICADAS
+
+Se detallarán una serie de acciones a realizar para todos los miembros del proyecto implicados.
+
+Al seguir estas acciones planificadas, se establecerá un organigrama de trabajo sólido que contribuirá al éxito del proyecto. La gestión eficiente del equipo es esenci
+
+[Fragmento 5 | páginas 20]
+|                    |                   |                   |                   |                    |
+| FORMACION TÉCNICA                      |                   |                   |                   |                    |                   |                   |                   |                    |
+| DESARROLLO COMPONENTES                 |                   |                   |                   |                    |                   |                   |                   |                    |
+| VISITA DE TRABAJO A CIFP SOMORROSTRO   |                   |                   |                   |                    |                   |                   |                   |                    |
+| VISITA DE TRABAJO A IES Fernando Writz |                   |",,,
+q20,V3,¿Qué tareas están asignadas a la intersección entre la Fase 2 y la Línea 6 en la matriz de tareas por línea y fase?,La tarea asignada es la T24 [p. 12].,"[Fragmento 1 | páginas 12]
+## 4.2 TAREAS POR LÍNEA Y FASE
+
+|        | LÍNEA 1    | LÍNEA 2        | LÍNEA 3           | LÍNEA 4       | LÍNEA 5       | LÍNEA6        |
+|--------|------------|----------------|-------------------|---------------|---------------|---------------|
+| FASE 1 | T1, T2, T3 |                | T9, T10, T11, T12 |               |               |               |
+| FASE 2 | T4         | T7             |                   |               |               | T24           |
+| FASE 3 |            | T5, T6, T7, T8 |                   |               |               |               |
+| FASE 4 |            |                |                   |               | T17, T18, T19 |               |
+| FASE 5 |            |                |                   | T13, T14, T15 |               | T24, T25, T26 |
+
+[Fragmento 2 | páginas 11]
+## Fase 2: Establecimiento de Alianzas y Formación
+
+-  Acción 4: Organización de reuniones y sesiones de intercambio de saberes entre equipos de desarrollo y operaciones (Establecimiento de Alianzas Estratégicas, Tarea 4 - Línea 1, Tarea 24 - Línea 6).
+-  Acción 5: Desarrollo de programas formativos enfocados en CI/CD y metodologías DevOps (Formación en CI/CD, Tarea 7- Línea 2).
+
+
+
+[Fragmento 3 | páginas 12, 13]
+## TAREAS A REALIZAR PREVIAS A COMENZAR LA EJECUCIÓN DEL PROYECTO
+
+-  Definición de Roles y Responsabilidades: Se clarificarán los roles y responsabilidades, definiendo supervisión y liderazgo.
+-  Identificación de Competencias: Se evaluarán y asignarán tareas según las habilidades del equipo para asegurar eficacia.
+-  Jerarquía y Comunicación: Se fijará una jerarquía clara y canales de comunicación regulares para mantener informados a todos los involucrados.
+-  Reuniones de Planificación: Se organizarán reuniones periódicas para revisar el progreso y ajustar plazos.
+-  Herramientas de Gestión: Se implementarán herramientas de seguimiento para mantener al equipo organizado y enfocado.
+-  Documentación y Procedimientos: Se establecerán procedimientos de documentación claros y accesibles para todos los miembros del equipo.
+-  Evaluación Final: Se realizará un análisis final para identificar éxitos y áreas de mejora.
+
+El nivel de intervención de cada centro o entidad participante en cada fase se define en la siguiente tabla mediante un porcentaje de participación:
+
+[Fragmento 4 | páginas 1, 3]
+## 1.5 LÍNEA TEMÁTICA
+
+Línea 5: Diseño y testeo de retos o proyectos de formación, que permitan la innovación metodológica hacia el aprendizaje basado en retos, con atención especial a la incorporación de competencias transversales, incluyendo diseño-tipo de adaptaciones técnicas y estructurales de espacios formativos a nuevas metodologías. Basándonos en la experiencia del Centro de Formación Somorrostro en retos ETHAZI y su relación con TKNIKA, este proyecto está diseñado para estimular tanto competencias técnicas como transversales. La introducción de retos intermodulares permite a los estudiantes experimentar con la combinación de diferentes módulos, promoviendo proyectos de mayor duración y fortaleciendo la gestión del tiempo. Este enfoque, inspirado en las directrices de TKNIKA, fomenta competencias clave como las digitales, comunicación, autonomía, implicación y trabajo en equipo. Adoptando un aprendizaje basado en retos, se incentivará la resolución de problemas y el pensamiento crítico, mientras que se adaptarán espacios formativos para albergar estas metodologías innovadoras. Linea 6: Desarrollo de ecosistemas de innovación estables entre los principales agentes de cada sector profesional estrechando y garantizando la colaboración, la excelencia del talento de sus profesionales y la transferencia del conocimiento entre centros de formación profesional, empresas y/o entidades especialistas en innovación del mismo.
+
+[Fragmento 5 | páginas 12, 13]
+## TAREAS A REALIZAR PREVIAS A COMENZAR LA EJECUCIÓN DEL PROYECTO
+
+| PARTICIPANTE   | IES Fernando Wirtz Suárez   | CFS   | Dative   |
+|----------------|-----------------------------|-------|----------|
+| FASE 1         | 25%                         | 30%   | 45%      |
+| FASE 2         | 25%                         | 30%   | 45%      |
+| FASE 3         | 25%                         | 30%   | 45%      |
+| FASE 4         | 30%                         | 60%   | 10%      |
+| FASE 5         | 33%                         | 33%   | 33%      |",,,

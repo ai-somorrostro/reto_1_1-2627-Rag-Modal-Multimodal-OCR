@@ -1,0 +1,15 @@
+version,notebook,tecnica,corpus,recall@5,recall@10,MRR@10,fidelidad,relevancia_respuesta,relevancia_contexto,latencia_p50_ms,latencia_p95_ms,tokens,coste_usd,recall@5_texto,recall@5_tabla,recall@5_visual
+V0,03,Chunking fijo (800/100) + denso BGE-M3,pdf,0.9,1.0,0.7800595238095237,0.7,1.0,0.7,751.7650000000001,1381.569,19402.0,0.0053605,1.0,1.0,0.6666666666666666
+V1,03,Chunking por cabeceras y tablas completas + denso BGE-M3,pdf,1.0,1.0,0.8083333333333332,0.8,1.0,0.8,737.845,1272.6385000000005,33019.0,0.0088135,1.0,1.0,1.0
+V2,04,"BM25 (bm25s, stemmer y stopwords en español)",pdf,0.9,0.9,0.76,0.8,1.0,0.8,653.7149999999999,1199.2165000000002,32168.0,0.008557,1.0,1.0,0.6666666666666666
+V3,04,Híbrido BM25 + denso con RRF,pdf,1.0,1.0,0.8583333333333332,0.8,1.0,0.8,637.3299999999999,814.9340000000001,33853.0,0.00901325,1.0,1.0,1.0
+V4,05,V3 + reranker bge-reranker-v2-m3 (top-50),pdf,0.9,0.9,0.7975,0.8,1.0,0.8,2134.61,2815.2850000000003,34403.0,0.00918075,1.0,1.0,0.6666666666666666
+V5,05,"V4 + metadatos (ruta de sección, cabecera de contexto, tablas serializadas)",pdf,0.9,0.9,0.8375,0.8,1.0,0.8,2405.925,2990.3430000000008,60631.0,0.015769,1.0,1.0,0.6666666666666666
+V6,05,"V5 + multi-query (3 reformulaciones, RRF)",pdf,0.9,0.9,0.8375,0.8,1.0,0.8,3597.19,4885.773,64087.0,0.01871425,1.0,1.0,0.6666666666666666
+V7,07,V6 + unidades visuales (descripción VLM + SIGLIP) fusionadas con RRF,pdf,1.0,1.0,0.935,0.9,1.0,0.85,3813.835,4911.004500000005,76031.0,0.0217802499999999,1.0,1.0,1.0
+S-bm25-manual,A2,"BM25 a mano (k1=1.5, b=0.75)",sqac,0.775,0.84,0.6694186507936507,,,,,,,,,,
+S-bm25s,04,bm25s (stemmer y stopwords en español),sqac,0.775,0.84,0.6694186507936507,,,,,,,,,,
+S-convexa,A2,Combinación convexa (α=0.8),sqac,0.89,0.92,0.7965535714285713,,,,,,,,,,
+S-denso,04,Denso BGE-M3,sqac,0.885,0.91,0.7690059523809524,,,,,,,,,,
+S-rrf,04,Híbrido RRF (k=60),sqac,0.875,0.9,0.7563749999999999,,,,,,,,,,
+S-tfidf,A2,TF-IDF (scikit-learn),sqac,0.79,0.835,0.717045634920635,,,,,,,,,,

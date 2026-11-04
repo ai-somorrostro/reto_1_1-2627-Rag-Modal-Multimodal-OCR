@@ -1,0 +1,32 @@
+# Entornos virtuales
+.venv/
+servidor/colpali/.venv/
+
+# Claves y configuración local (nunca al repositorio)
+.env
+servidor/langfuse/.env
+
+# Cachés y trazas generadas al ejecutar (se regeneran con preparar_cache.py)
+cache/
+trazas/
+
+# Ficheros que crea casa_04 con el PDF de cada alumno
+data/mi_documento.pdf
+data/preguntas_*.jsonl
+data/results_*.csv
+data/etiquetas_*.csv
+!data/etiquetas_humanas.csv
+
+# Python y Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
